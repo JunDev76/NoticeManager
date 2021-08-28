@@ -1,0 +1,6 @@
+name: NoticeManager
+main: JunKR\NoticeManager
+version: 1.0.0
+author: JUNKR
+api:
+  - 3.0.0
